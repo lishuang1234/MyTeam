@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate>
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+    android:fromXDelta="0"
+    android:toXDelta="320"
+    android:fromYDelta="0"
+    android:toYDelta="0"
+    android:duration="2000">
+</translate>
+
+
+   
